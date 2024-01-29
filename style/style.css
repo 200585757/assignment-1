@@ -1,0 +1,101 @@
+/*Setting the font family and background for the entire body*/
+body{
+    font-family: Georgia;
+    background: radial-gradient(circle, rgba(63,94,251,0.7904411764705882) 0%, rgba(252,70,107,0.7988445378151261) 100%);
+}
+/*Styling for image*/
+img{
+    width: 60%;
+    height: 250px;
+}
+.img2{
+    width: 200px;
+    border-radius: 10px;
+}
+/*Styling for label with class label1*/
+.label1{
+    font-size: 20px;
+    font-weight: bold;
+}
+/*Styling for specific division with mydiv2*/
+.mydiv2{
+background-color: rgb(220, 182, 248);
+width: 700px;
+border: 15px solid rgb(249, 3, 192);
+padding: 100px;
+margin: 10px;
+} 
+/*Styling for heading1*/
+h1{
+text-shadow: 4px 4px rgb(8, 8, 8);
+letter-spacing: 1vi;
+font-size: 40px;
+font-family: Arial, Helvetica, sans-serif;
+border-style: solid black;
+border-radius: 50px;
+}  
+/*Styling for payment heading with myheading*/
+.myheading{
+    color: #000;
+}
+/*Styling for specific divison with 'mydiv1'*/
+.mydiv1{
+    width: 890px;
+    margin: auto;
+    color: #fff;
+    border: 5px solid #000;
+    margin-bottom: 20px;
+}
+/*Styling for form*/
+.myform{
+    width: 58%;
+    margin: auto;
+    margin-left: 95px;
+    display: inline-block;
+    padding: 20px;
+    padding-right: 20px;
+    height: auto;
+    background-color: whitesmoke;
+    margin-top: 20px;
+}
+/*Styling for specific form div with subdiv*/
+.subdiv{
+    display: inline-block;
+    margin-right: 10px;
+}
+/*Styling for specific division with class subdiv2*/
+.subdiv2{
+    display: inline-block;
+    margin-right: 10px;
+    width: 200px;
+    margin: auto;
+    margin-right: 20px;
+
+}
+/*Styling for specific division with class subdiv3*/
+.subdiv3{
+    width: 55%;
+    height: auto;
+    margin: auto;
+}
+/*Styling for input and select*/
+.input1,select{
+    width: 80px;
+    height: 25px;
+    margin-bottom: 20px;
+}
+/*Styling for input element with class input2*/
+.input2{
+    width: 200px;
+    height: 25px;
+}
+/*Styling for specific heading with class myhead*/
+.myhead{
+    color:#fff;
+}
+/*Styling for fieldset*/
+fieldset{
+    width: 58%;
+    margin: auto;
+    border: 1px solid #fff;
+}
